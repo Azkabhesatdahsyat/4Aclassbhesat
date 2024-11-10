@@ -127,5 +127,5 @@ Demikian surat pemberitahuan ini disampaikan.
 </head
 </body>
 </html>
-<ins>website ini copyrigt! </ins>
-<audio>copyright</audio>
+<p>&copy; 2024 4A dev. All rights reserved.</p>
+
