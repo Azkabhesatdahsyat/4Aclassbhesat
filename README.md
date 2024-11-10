@@ -127,5 +127,5 @@ Demikian surat pemberitahuan ini disampaikan.
 </head
 </body>
 </html>
-<p>&copy; 2024 4A dev. All rights reserved.</p>
+<p>&copy; 2024 4A dev. SDN BEJI 1✓.</p>
 
