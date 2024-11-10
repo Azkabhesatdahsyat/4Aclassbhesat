@@ -1,4 +1,5 @@
-<body> <!DOCTYPE html> <html> <head> <title>4A beranda</title> </head> <body> <h1>4a web</h1> <nav> <ul> <li><a href="#pria">jadwal pelajaran</a></li></a></li> <li><a</a></li> </ul> </nav <footer><nav</p>><ul> <li> <a> "surat edaran"</a></li>
+<body> <!DOCTYPE html><script src="https://cdn.logwork.com/widget/text.js"></script>
+<a href="https://logwork.com/current-time-in-depok-indonesia-jawa-barat-26" class="clock-widget-text" data-timezone="Asia/Jakarta" data-language="en" data-textcolor="#240303" data-background="#f5ebec" data-digitscolor="#784f4f">Depok, Indonesia, Jawa Barat</a> <html> <head> <title>4A beranda</title> </head> <body> <h1>4a web</h1> <nav> <ul> <li><a href="#pria">jadwal pelajaran</a></li></a></li> <li><a</a></li> </ul> </nav <footer><nav</p>><ul> <li> <a> "surat edaran"</a></li>
 <p>Dengan hormat,
 Dalam rangka memperkaya pengalaman belajar siswa dan mendukung program pembelajaran di luar kelas, SDN Beji 1 bermaksud mengadakan kegiatan outing class untuk siswa kelas 4, 5, dan 6 wawasan tambahan bagi siswa dalam suasana yang menyenangkan 
 Serta interaktif
